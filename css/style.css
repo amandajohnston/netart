@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css?family=Barrio|Special+Elite&display=swap');
+
+body{
+    font-family: "Courier New";
+}
+
+body{
+  background-color: #FDEAA5;
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+.self {
+  position: relative;
+  z-index: 100;
+  top: 105px;
+  left: 250px;
+}
+
+.marquee {
+  position: absolute;
+  z-index: 50;
+  top: 0;
+  left: 0;
+  right: 0;
+}
+
+h1{
+  color: white;
+  font-size: 48pt;
+  font-family: 'Barrio', cursive;
+}
+
+h2{
+  color:#9C992A;
+  font-size: 24pt;
+  font-family: 'Special Elite', cursive;
+}
+
+h3{
+  color:#9C992A;
+  font-size: 20pt;
+  font-family: 'Special Elite', cursive;
+}
+
+p{
+  color:white;
+  font-size:16pt;
+}
+
+a{
+  color:#9C992A;
+  text-decoration: none;
+}
+a:visited {
+  color:#D92818
+}
+a:hover {
+  color:#D95B66;
+}
+a:active {
+  color:#9C992A;
+}
